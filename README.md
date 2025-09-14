@@ -1,1 +1,1 @@
-# LearningNode.js
+# LearningNode.js Series
