@@ -1,1 +1,1 @@
-# LearningNode.js by Prince Kumar
+# LearningNode.js
